@@ -1,5 +1,6 @@
 # DOL学习笔记
-@(DOL笔记)[DOL, Git, Markdown]
+
+`DOL笔记  DOL Git   Markdown`
 
 ###DOL简介
 >**Distributed Operation Layer** : 
@@ -173,6 +174,7 @@ $ gedit usr-libs.conf
 $ ldconfig
 ```
 - 至此，DOL的实验环境配置完成。
+
 ***
 
 ###实验心得与体会
