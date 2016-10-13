@@ -23,6 +23,7 @@ $ cd build/bin/main
 $ sudo ant -f runexample.xml -Dnumber=2 
 ```
 - 运行结果：
+
 ![Alt text](./task01.jpg)
 - 发现结果是正确的。
 - generator 生成0~19的整数，square经过两次平方操作，consumer输出结果
